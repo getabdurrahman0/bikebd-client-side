@@ -1,0 +1,24 @@
+.navbar {
+    color: #333;
+    background-color:#fff;
+  }
+  .navbar a{
+      color: #333;
+      font-size: 1.2rem;
+      text-decoration: none;
+      margin-left: 15px;
+  }
+  .navbar a:hover{
+      color: #f75d34;
+      
+  }
+  .btn{
+  background: #681ace !important;
+  color: white !important;
+  border: none !important;
+  
+  } 
+  .btn:hover{
+    background: #f75d34 !important;
+    color: white !important;
+  }

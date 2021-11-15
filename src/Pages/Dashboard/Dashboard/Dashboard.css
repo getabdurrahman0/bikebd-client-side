@@ -1,0 +1,21 @@
+.dlist{
+    background-color: #15b9ff;
+    color: #fff;
+    overflow-x: hidden;
+    align-content: center;
+    text-align: center;
+}
+.dlist ul{
+    color: #fff;
+    padding: 15px 20px;
+    list-style: none;
+    text-decoration: none;
+}
+.dlist ul>li{
+    margin: 5px 0px;
+}
+.dlist ul>li:hover{
+    list-style: none;
+    background-color: #fff;
+    color: #333;
+}
