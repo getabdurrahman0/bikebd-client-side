@@ -2,7 +2,7 @@
 # **BikeBD**
 
 <a  href="https://cardekho-6086f.web.app/">
-<img  width="100%"  height="100%"  src="https://i.ibb.co/kg8DWn9/Gerez.png"/>
+<img  width="100%"  height="100%"  src="https://images2.imgbox.com/4d/c6/e7YhBK82_o.png"/>
 </a>
 
 ## About & Features
